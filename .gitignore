@@ -1,0 +1,7 @@
+
+# Ignore the config.json file
+config.json
+
+# Ignore the bio folder
+bio/
+
