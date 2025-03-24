@@ -1,7 +1,16 @@
 
-# Ignore the config.json file
-config.json
+# Ignore the key.json file
+key.json
 
 # Ignore the bio folder
 bio/
+
+# Ignore the data folder
+data/
+
+# Ignore the data folder
+biochem_chat/
+
+# Ignore the pycache folder
+__pycache__/
 
